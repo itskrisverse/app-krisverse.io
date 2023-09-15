@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/app-krisverse.io/static/css/main.96dffcd2.css",
+    "main.js": "/app-krisverse.io/static/js/main.48258c0e.js",
+    "static/js/787.83aa79cf.chunk.js": "/app-krisverse.io/static/js/787.83aa79cf.chunk.js",
+    "static/media/CV.pdf": "/app-krisverse.io/static/media/CV.d881873406c895974b64.pdf",
+    "static/media/about-pic.jpg": "/app-krisverse.io/static/media/about-pic.eda5f306c7cb807f5f9e.jpg",
+    "static/media/profile-pic.jpg": "/app-krisverse.io/static/media/profile-pic.eda5f306c7cb807f5f9e.jpg",
+    "index.html": "/app-krisverse.io/index.html",
+    "main.96dffcd2.css.map": "/app-krisverse.io/static/css/main.96dffcd2.css.map",
+    "main.48258c0e.js.map": "/app-krisverse.io/static/js/main.48258c0e.js.map",
+    "787.83aa79cf.chunk.js.map": "/app-krisverse.io/static/js/787.83aa79cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96dffcd2.css",
+    "static/js/main.48258c0e.js"
+  ]
+}
